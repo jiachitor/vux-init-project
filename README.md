@@ -4,14 +4,9 @@
 
 ## Docs
 
-+ [中文文档](https://vux.li/)
-+ English(working)
++ [VUX 中文文档](https://vux.li/)
 
 ## Issues
-
-> 不按照 [issue generator](https://doc.vux.li/issue-generator/#/zh-CN) 来提交的会被关闭并 `block`，毕竟提醒每一个故意忽略(眼瞎、文盲或者缺少礼貌？)`issue template`的人也是件很浪费时间的事。
-
-- `VUX` 并不是大团队维护的项目，**没有捐赠，纯靠热情**，维护者有权决定什么时候处理什么问题，什么问题不处理。<br>**入坑请万分谨慎**。
 
 - UI 组件库和样式、功能灵活性是矛盾的。如果你需要一个高度自定义的组件库，VUX 并不适合你(即使已经在尽力提供样式变量)，请不要使用，因为大部分人会抱怨的(并且只会抱怨)。
 
@@ -27,14 +22,6 @@ cd projectPath
 npm install // or yarn
 npm run dev // or yarn dev
 ```
-
-## Get notified
-
-<p align="center">
-  <img src="https://ws1.sinaimg.cn/large/663d3650gy1fpno3msj6wj20dw0dw748.jpg" alt="" width="100">
-  <br>
-  <span>Scan with Wechat</span>
-</p>
 
 ## Maintainers
 
