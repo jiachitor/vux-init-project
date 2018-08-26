@@ -1,6 +1,6 @@
 #### 关于路由配置
 
-参考 /Volumes/Transcend/development/githubDevelopment/vux-demo/src/demo_list-bf.json文件。
+参考 /Volumes/Transcend/development/githubDevelopment/vux-demo/src/demo_list.json文件。
 具体转化相关的代码在 /Volumes/Transcend/development/githubDevelopment/vux-demo/build/vux-config.js 中。
 
 会发现两种方式：
